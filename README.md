@@ -1,6 +1,6 @@
 # time-series-project
 
-Objetivo del proyecto: Utilizar técnicas de Deep Learning para predecir el valor futuro de las acciones de una empresa en función de los valores previos.
+Objetivo: Utilizar técnicas de Deep Learning para predecir el valor futuro de las acciones de una empresa en función de los valores previos.
 
 Alcance: El presente proyecto se desarrolla para los datos diarios del valor de la acción de Twitter en el período de 01/2018 hasta 07/2022.
 
